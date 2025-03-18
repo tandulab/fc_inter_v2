@@ -1,0 +1,1 @@
+import{f as r,a as s,x as o,o as t}from"../index44521.js";const m={},n={class:"uppercase mt-[3rem] mb-[2rem] md:mt-[2.4rem] md:mb-[4rem] max-w-[100%]"};function c(e,_){return t(),s("h1",n,[o(e.$slots,"default")])}const l=r(m,[["render",c]]);export{l as _};
