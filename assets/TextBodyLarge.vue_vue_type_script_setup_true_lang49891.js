@@ -1,0 +1,1 @@
+import{d as a,a as s,w as t,N as o,H as r,o as n}from"../index49891.js";const p=a({__name:"TextBodyLarge",setup(_){return(e,c)=>(n(),s(o,{size:"large"},{default:t(()=>[r(e.$slots,"default")]),_:3}))}});export{p as _};
